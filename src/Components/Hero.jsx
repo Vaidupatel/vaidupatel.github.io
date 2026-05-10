@@ -34,7 +34,7 @@ const Hero = () => {
             words="Taking Your Vision from Sketch to Scale"
           />
           <p className="text-center md:trcking-wider mb-4 text-sm md:text-lg lg:text-2xl text-blue-100">
-            I&apos;m Vaid—your partner in modern web engineering
+            I&apos;m Vaidik - your partner in modern tech
           </p>
           <a href="#about">
             <MagicButton
